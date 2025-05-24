@@ -1,0 +1,8 @@
+﻿  Binary_Coder.cpp
+C:\Users\andre\source\repos\Hack Assembler\Hack Assembler\Binary_Coder.cpp(12,15): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\Hack Assembler\Hack Assembler\Binary_Coder.cpp(59,22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\Hack Assembler\Hack Assembler\Binary_Coder.cpp(271,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\source\repos\Hack Assembler\Hack Assembler\Binary_Coder.cpp(303,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hack_assembler.cpp
+  Generating Code...
+  Hack Assembler.vcxproj -> C:\Users\andre\source\repos\Hack Assembler\x64\Debug\Hack Assembler.exe

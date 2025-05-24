@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\hack_assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|solutionrelative:Hack Assembler\\hack_assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Binary_Coder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|solutionrelative:Hack Assembler\\Binary_Coder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Binary_Coder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|solutionrelative:Hack Assembler\\Binary_Coder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|solutionrelative:Hack Assembler\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3ACBB68-D96F-4BB3-A0B0-0FF66CAF00F7}|Hack Assembler\\Hack Assembler.vcxproj|solutionrelative:Hack Assembler\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hack_assembler.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\hack_assembler.cpp",
+              "RelativeDocumentMoniker": "Hack Assembler\\hack_assembler.cpp",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\hack_assembler.cpp",
+              "RelativeToolTip": "Hack Assembler\\hack_assembler.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAnwEwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T21:25:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Binary_Coder.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Binary_Coder.cpp",
+              "RelativeDocumentMoniker": "Hack Assembler\\Binary_Coder.cpp",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Binary_Coder.cpp",
+              "RelativeToolTip": "Hack Assembler\\Binary_Coder.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T21:25:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Binary_Coder.h",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Binary_Coder.h",
+              "RelativeDocumentMoniker": "Hack Assembler\\Binary_Coder.h",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Binary_Coder.h",
+              "RelativeToolTip": "Hack Assembler\\Binary_Coder.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T21:25:58.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parser.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Parser.cpp",
+              "RelativeDocumentMoniker": "Hack Assembler\\Parser.cpp",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Parser.cpp",
+              "RelativeToolTip": "Hack Assembler\\Parser.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T21:25:41.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parser.h",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Parser.h",
+              "RelativeDocumentMoniker": "Hack Assembler\\Parser.h",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Hack Assembler\\Hack Assembler\\Parser.h",
+              "RelativeToolTip": "Hack Assembler\\Parser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T21:25:57.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
